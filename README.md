@@ -20,7 +20,7 @@ body = "Hello everyone, I hope you all are in good health..."
 Emailer.send_email(sendersEmail,sendersPassword,recipients,subject,body)
 ``` 
 
-### Using defualt birth announcement message function
+### Using Defualt Birth Announcement Message Function
 
 ```
 sendersEmail = "sendersEmailAddress"
