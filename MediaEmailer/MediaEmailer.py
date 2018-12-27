@@ -65,6 +65,9 @@ def send_birth_email_with_attachments(sendersEmail, sendersPassword, recipients,
 
 #helper method to create attachments directory
 def clear_attachments_directory():
+    '''
+    : clear attachment directory before puting new attachments for new email
+    '''
     import glob
     files = glob.glob(os.path.join(attachmentDir,"*"))
     for f in files:
