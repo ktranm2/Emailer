@@ -1,0 +1,13 @@
+--------------------------------------- 1 -------------------------------------
+
+If you get below Error :
+    
+    Failed to send email (534, b'5.7.9 Application-specific password required. Learn more at\n5.7.9                     https://support.google.com/mail/?p=InvalidSecondFactor 6sm29373428pfv.30 - gsmtp')
+
+then follow this article :
+
+    https://devanswers.co/allow-less-secure-apps-access-gmail-account/
+    
+    
+---------------------------------------------------------------------------------
+
